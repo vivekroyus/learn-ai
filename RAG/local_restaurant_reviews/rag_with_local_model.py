@@ -18,7 +18,7 @@ chain = prompt | model
 
 while True:
     print("\n \n -----------------------------")
-    question = input("What is your question (q to quit)" )
+    question = input("Type in  your question (q to quit)" )
     print("\n \n -----------------------------")
 
     if question == 'q':
